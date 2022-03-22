@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @enzobrg
+
+
+- [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,js,html,css,discord,docker,git,idea,linux,mongodb,mysql,nginx,php,py,react,regex,sass,ts&perline=6)](https://skillicons.dev)
+
+
 - [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,js,html,css,discord,docker,git,idea,linux,mongodb,mysql,nginx,php,py,react,regex,sass,ts,)](https://skillicons.dev)
 
 <!---
