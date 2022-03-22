@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @enzobrg
 
 
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,js,html,css,discord,docker,git,idea,linux,mongodb,mysql,nginx,php,py,react,regex,sass,ts&perline=4" />
+  </a>
+</p>
 - [![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,js,html,css,discord,docker,git,idea,linux,mongodb,mysql,nginx,php,py,react,regex,sass,ts&perline=6)](https://skillicons.dev)
 
 
