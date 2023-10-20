@@ -3,7 +3,7 @@
 - My Portfolio : 
 
 - All of my skills :
-- [![My Skills](https://skillicons.dev/icons?i=bash,linux,nginx,docker,regex,php,py,js,react,html,css,sass,mysql,bootstrap,ts&perline=7)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=bash,linux,docker,regex,php,py,js,react,html,css,sass,mysql,bootstrap,ts&perline=7)](https://skillicons.dev)
 
 
 <!---
