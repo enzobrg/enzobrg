@@ -2,7 +2,7 @@
 
 - My Portfolio : 
 
-- All of my skills :
+- Some of my skills :
 - [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,symfony,react,docker,mysql,bootstrap,regex,bash,linux&perline=14)](https://skillicons.dev)
 
 
