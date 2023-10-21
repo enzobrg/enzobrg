@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Enzo B</h1>
 <h3 align="center">A passionate backend developer from France</h3>
-<p><a href="https://www.buymeacoffee.com/enzobrg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="enzobrg" /></a></p><br>
+<p align="center"><a href="https://www.buymeacoffee.com/enzobrg"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="enzobrg" /></a></p><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/wall4ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wall4ce" height="30" width="40" /></a>
