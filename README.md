@@ -4,17 +4,17 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Enzo B</h1>
 <h3 align="center">A passionate backend developer from France</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzobrg&label=Profile%20views&color=0e75b6&style=flat" alt="enzobrg" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzobrg" alt="enzobrg" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/wall4ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wall4ce" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/enzob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzob" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wall4ce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wall4ce" height="30" width="40" /></a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzobrg&label=Profile%20views&color=0e75b6&style=flat" alt="enzobrg" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzobrg" alt="enzobrg" /></a> </p>
 
 - 🔭 I’m currently working on [Project 1](Project 1)
 
