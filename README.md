@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **CyberSecurity, Video-Games & Sports**
 
+<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1049624" style='border:none;'></iframe></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzobrg&show_icons=true&locale=en&layout=compact" alt="enzobrg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzobrg&" alt="enzobrg" /></p>
